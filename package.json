@@ -1,0 +1,19 @@
+{
+  "name": "koprulu",
+  "version": "1.0.0",
+  "description": "An API used for communicating content based in the StarCraft universe, built using Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpaauw/koprulu.git"
+  },
+  "author": "mpaauw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpaauw/koprulu/issues"
+  },
+  "homepage": "https://github.com/mpaauw/koprulu#readme"
+}
